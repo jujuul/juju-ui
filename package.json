@@ -13,6 +13,10 @@
     "docs:serve": "vitepress serve docs"
   },
   "dependencies": {
+    "autoprefixer": "^10.4.8",
+    "postcss": "^8.4.16",
+    "sass": "^1.54.5",
+    "tailwindcss": "^3.1.8",
     "vitepress": "1.0.0-alpha.4",
     "vitepress-theme-demoblock": "^1.4.2",
     "vue": "^3.2.37"
